@@ -8,6 +8,9 @@ v -> select mode
 p -> paste
 a-> cria arquivo na arvore
 
+u -> undo
+crtl r -> redo
+
 repeat action = qw +actions + q + N@w
 
 0 -> começo de linha
