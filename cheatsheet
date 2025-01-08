@@ -7,3 +7,10 @@ v -> select mode
     c -> copy
 p -> paste
 a-> cria arquivo na arvore
+
+repeat action = qw +actions + q + N@w
+
+0 -> começo de linha
+$ -> end of line
+
+vs :qw
