@@ -16,4 +16,7 @@ repeat action = qw +actions + q + N@w
 0 -> começo de linha
 $ -> end of line
 
+neotree -> backspace = parent directory
+neotree -> . = enter folder
+
 vs :qw
