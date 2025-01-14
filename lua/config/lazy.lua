@@ -51,3 +51,6 @@ require("lazy").setup({
     },
   },
 })
+
+vim.api.nvim_set_hl(0, "LineNrBelow", { fg = "#8394ca" })
+vim.api.nvim_set_hl(0, "LineNrAbove", { fg = "#8394ca" })
