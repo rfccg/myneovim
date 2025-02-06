@@ -22,5 +22,8 @@ neotree -> . = enter folder
 
 vs :qw
 
+gx -> on visual mode open link on browser
 
+terminal:
+ctrl + r -> search  previous commands
 
