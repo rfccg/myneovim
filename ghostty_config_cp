@@ -20,6 +20,7 @@ keybind = super+up=goto_split:up
 keybind = super+down=goto_split:down
 keybind = super+left=goto_split:left
 keybind = super+right=goto_split:right
+macos-option-as-alt = true
 # Config syntax crash course
 # ==========================
 # # The config file consists of simple key-value pairs,
