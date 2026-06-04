@@ -1,3 +1,3 @@
 return {
-  { "echasnovski/mini.nvim", enabled = false },
+  { "nvim-mini/mini.nvim", enabled = false },
 }

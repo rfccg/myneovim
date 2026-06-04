@@ -1,6 +1,6 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.editor.fzf",
+    "lazyvim.plugins.extras.editor.telescope",
     "lazyvim.plugins.extras.lang.go",
     "lazyvim.plugins.extras.lang.java",
     "lazyvim.plugins.extras.lang.markdown",
@@ -9,8 +9,9 @@
     "lazyvim.plugins.extras.lang.yaml",
     "lazyvim.plugins.extras.lang.zig"
   ],
+  "install_version": 7,
   "news": {
-    "NEWS.md": "10960"
+    "NEWS.md": "11866"
   },
-  "version": 7
+  "version": 8
 }
